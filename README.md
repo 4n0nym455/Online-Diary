@@ -16,7 +16,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/4n0nym455/Online-Diary.git
-   cd WEB-APPs
+   cd Online-Diary
    ```
 2. **Set Up the Database:**
    - Import the SQL file (if provided) into your MySQL database.
@@ -25,7 +25,7 @@
 
 3. **Run the Application:**
    - Host on a local server (e.g., XAMPP, WAMP, MAMP).
-   - Access via `http://localhost/WEB-APPs`.
+   - Access via `http://localhost/Online-Diary`.
 
 ## 📋 Usage
 1. **Register/Login:** Create an account to start journaling.
