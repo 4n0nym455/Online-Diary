@@ -15,7 +15,7 @@
 ## ⚙️ Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/4n0nym455/WEB-APPs.git
+   git clone https://github.com/4n0nym455/Online-Diary.git
    cd WEB-APPs
    ```
 2. **Set Up the Database:**
