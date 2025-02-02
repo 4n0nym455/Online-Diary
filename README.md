@@ -1,6 +1,6 @@
-# 📔 Diary
+# 📔 Online Diary
 
-**Diary** is an online journal application that allows users to record audio, upload pictures, and keep track of their daily entries seamlessly.
+**Online Diary** is an online journal application that allows users to record audio, upload pictures, and keep track of their daily entries seamlessly.
 
 ## 🚀 Features
 - 🎙️ **Audio Recording:** Capture your thoughts with built-in audio recording.
@@ -20,7 +20,8 @@
    ```
 2. **Set Up the Database:**
    - Import the SQL file (if provided) into your MySQL database.
-   - Update database credentials in `connection.php`.
+   - Update database credentials in `conf.php`.
+   - Create a `.env` file
 
 3. **Run the Application:**
    - Host on a local server (e.g., XAMPP, WAMP, MAMP).
